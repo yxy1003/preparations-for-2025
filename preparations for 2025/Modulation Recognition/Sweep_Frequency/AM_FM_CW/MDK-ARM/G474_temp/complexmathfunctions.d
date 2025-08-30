@@ -1,0 +1,37 @@
+g474_temp\complexmathfunctions.o: D:/Keli 5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/ComplexMathFunctions/ComplexMathFunctions.c
+g474_temp\complexmathfunctions.o: D:/Keli 5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/ComplexMathFunctions/arm_cmplx_conj_f32.c
+g474_temp\complexmathfunctions.o: D:\Keli 5\ARM\PACK\ARM\CMSIS-DSP\1.16.2\Include\dsp/complex_math_functions.h
+g474_temp\complexmathfunctions.o: D:\Keli 5\ARM\PACK\ARM\CMSIS-DSP\1.16.2\Include\arm_math_types.h
+g474_temp\complexmathfunctions.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+g474_temp\complexmathfunctions.o: D:\Keli 5\ARM\ARMCC\Bin\..\include\stdint.h
+g474_temp\complexmathfunctions.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+g474_temp\complexmathfunctions.o: D:\Keli 5\ARM\ARMCC\Bin\..\include\string.h
+g474_temp\complexmathfunctions.o: D:\Keli 5\ARM\ARMCC\Bin\..\include\math.h
+g474_temp\complexmathfunctions.o: D:\Keli 5\ARM\ARMCC\Bin\..\include\float.h
+g474_temp\complexmathfunctions.o: D:\Keli 5\ARM\ARMCC\Bin\..\include\limits.h
+g474_temp\complexmathfunctions.o: D:\Keli 5\ARM\PACK\ARM\CMSIS-DSP\1.16.2\Include\arm_math_memory.h
+g474_temp\complexmathfunctions.o: D:\Keli 5\ARM\PACK\ARM\CMSIS-DSP\1.16.2\Include\dsp/none.h
+g474_temp\complexmathfunctions.o: D:\Keli 5\ARM\PACK\ARM\CMSIS-DSP\1.16.2\Include\dsp/utils.h
+g474_temp\complexmathfunctions.o: D:\Keli 5\ARM\PACK\ARM\CMSIS-DSP\1.16.2\Include\dsp/fast_math_functions.h
+g474_temp\complexmathfunctions.o: D:\Keli 5\ARM\PACK\ARM\CMSIS-DSP\1.16.2\Include\dsp/basic_math_functions.h
+g474_temp\complexmathfunctions.o: D:/Keli 5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/ComplexMathFunctions/arm_cmplx_conj_q15.c
+g474_temp\complexmathfunctions.o: D:/Keli 5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/ComplexMathFunctions/arm_cmplx_conj_q31.c
+g474_temp\complexmathfunctions.o: D:/Keli 5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/ComplexMathFunctions/arm_cmplx_dot_prod_f32.c
+g474_temp\complexmathfunctions.o: D:/Keli 5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/ComplexMathFunctions/arm_cmplx_dot_prod_q15.c
+g474_temp\complexmathfunctions.o: D:/Keli 5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/ComplexMathFunctions/arm_cmplx_dot_prod_q31.c
+g474_temp\complexmathfunctions.o: D:/Keli 5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/ComplexMathFunctions/arm_cmplx_mag_f32.c
+g474_temp\complexmathfunctions.o: D:/Keli 5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/ComplexMathFunctions/arm_cmplx_mag_f64.c
+g474_temp\complexmathfunctions.o: D:/Keli 5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/ComplexMathFunctions/arm_cmplx_mag_q15.c
+g474_temp\complexmathfunctions.o: D:/Keli 5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/ComplexMathFunctions/arm_cmplx_mag_fast_q15.c
+g474_temp\complexmathfunctions.o: D:/Keli 5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/ComplexMathFunctions/arm_cmplx_mag_q31.c
+g474_temp\complexmathfunctions.o: D:/Keli 5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/ComplexMathFunctions/arm_cmplx_mag_squared_f32.c
+g474_temp\complexmathfunctions.o: D:/Keli 5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/ComplexMathFunctions/arm_cmplx_mag_squared_f64.c
+g474_temp\complexmathfunctions.o: D:/Keli 5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/ComplexMathFunctions/arm_cmplx_mag_squared_q15.c
+g474_temp\complexmathfunctions.o: D:/Keli 5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/ComplexMathFunctions/arm_cmplx_mag_squared_q31.c
+g474_temp\complexmathfunctions.o: D:/Keli 5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/ComplexMathFunctions/arm_cmplx_mult_cmplx_f32.c
+g474_temp\complexmathfunctions.o: D:/Keli 5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/ComplexMathFunctions/arm_cmplx_mult_cmplx_f64.c
+g474_temp\complexmathfunctions.o: D:/Keli 5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/ComplexMathFunctions/arm_cmplx_mult_cmplx_q15.c
+g474_temp\complexmathfunctions.o: D:/Keli 5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/ComplexMathFunctions/arm_cmplx_mult_cmplx_q31.c
+g474_temp\complexmathfunctions.o: D:/Keli 5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/ComplexMathFunctions/arm_cmplx_mult_real_f32.c
+g474_temp\complexmathfunctions.o: D:/Keli 5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/ComplexMathFunctions/arm_cmplx_mult_real_q15.c
+g474_temp\complexmathfunctions.o: D:/Keli 5/ARM/PACK/ARM/CMSIS-DSP/1.16.2/Source/ComplexMathFunctions/arm_cmplx_mult_real_q31.c
